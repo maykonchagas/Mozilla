@@ -1,40 +1,41 @@
-== Introduction: Motivation and scope ==
+== Introdução: Motivação e objetivo ==
 
-This document aims to provide some concrete recommendations about how a healthy Mozilla community should look.
+Este documento tem como objetivo prover algumas recomendações sobre como uma comunidade Mozilla deve ser para se manter saudável.
 
-The content is a result of various investigations and learnings from past experiences inside various Mozilla communities as well as other open source projects.
+O conteúdo é o resultado de várias investigações e aprendizados de experiências passadas dentro das várias comunidades Mozilla assim como de outros projetos de código aberto.
 
-The topics covered by this document are:
+Os tópicos abordados neste documento são:
+* Organização e governança: Papéis, regras e código de conduta.
+* Integração, engajamento, caminhos e permanência.
+* Desenvolvimento colaborativo: Empoderamento e aprendizado.
 
-* Organization and governance: Roles, rules, and code of conduct.
-* Onboarding, engagement, pathways, and retention.
-* Contributor development: Empowering and learning.
+== Organização e governança ==
 
-== Organization and governance ==
+O primeiro passo para toda comunidade é formar uma base sólida, e isto seria através de um bom documento organizacional e modelo de governança.
 
-The first step for all communities is to have a solid base, and this is a good and documented organization and governance model.
+=== Papéis ===
 
-=== Roles ===
+A fim de entender quantas pessoas nós temos disponíveis na comunidade, e quais áreas de interesse podemos cubrir, é necessário ter um censo.
 
-In order to understand how many people we have available in the community, and which areas of interest we can cover, it is necessary to have a census.
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Dica:''' Crie e compartilhe um formulário/questionário rápido para obter estas informações: Quem você é? Quais são seus interesses atualmente? Quanto tmepo você pode dedicar por semana?</div>
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' Create and share a quick survey/form to gather this information: Who you are? What are you currently interested in? How much time can you devote per week?</div>
+==== Equipes operacionais ====
 
-====Functional teams====
+Uma vez que se tenha estas informações você pode agrupar as pessoas pela área de interesse e deixá-las decidir pelo menos duas pessoas para coordenar os esforços - para evitar gargalos, é importante ter mais de uma pessoa na coordenação.
 
-Once you have this information you can group people by area of interest and let them decide at least two people to coordinate efforts - in order to prevent bottlenecks, it is important to have more than one person coordinating.
+Coordenadores de projetos devem estar em contato com as equipes da Mozilla para estabelecer e prover uma avaliação sobre os objetivos e atividades do grupo - pelo menos uma das pessoas deve se comunicar bem em Inglês.
 
-People coordinating projects should be in touch with functional teams at Mozilla to establish a feedback circle about goals and activities - at least one should be an English-speaker.
-
-====Core team====
+==== Equipe principal ====
 
 From all the people in the community, create a core team to work specifically on community building and decision making. This should be an open call to anyone who can commit to:
 
-* Work actively on community building and discussions.
-* Have a response time of at least 72h.
-* Meet online at least once a month.
+De todas as pessoas na comunidade, deve-se criar uma equipe principal para trabalhar especificamente na construção da comunidade e tomadas de decisão. Isto deve ser uma chamada aberta para qualquer pessoa que possa se comprometer à:
 
-This team would be the group to take final decisions on community matters and it should be open to anyone that have worked actively at least three months in the community.
+* Trabalhar ativamente na formação da comunidade e discussões.
+* Ter disponível tempo de resposta de pelo menos 72h.
+* Participar de reuniões *online* pelo menos uma vez por mês.
+
+Esta equipe será o grupo que tomará as decisões finais nos assuntos da comunidade e deve ser aberta para qualquer um que trabalhou ativamente por pelo menos três meses na comunidade.
 
 ====Decision making====
 
