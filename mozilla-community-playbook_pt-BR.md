@@ -31,7 +31,7 @@ De todas as pessoas na comunidade, deve-se criar uma equipe principal para traba
 
 * Trabalhar ativamente na formação da comunidade e discussões.
 * Ter disponível tempo de resposta de pelo menos 72h.
-* Participar de reuniões *online* pelo menos uma vez por mês.
+* Participar de reuniões _online_ pelo menos uma vez por mês.
 
 Esta equipe será o grupo que tomará as decisões finais nos assuntos da comunidade e deve ser aberta para qualquer um que trabalhou ativamente por pelo menos três meses na comunidade.
 
@@ -63,7 +63,7 @@ Qualquer pessoa na comunidade deve se sentir livre para propor mudanças, o proc
 * A proposta é formalmente enviada para a equipe principal, que discutirá, modificará (se necessário) e votará.
 
 ''The Mozilla Reps program has a [https://wiki.mozilla.org/ReMo/SOPs/Proposals proposals SOP] based on the previous example.''
-''O programa Mozilla Reps tem um [https://wiki.mozilla.org/ReMo/SOPs/Proposals POP proposto] (veja mais sobre [https://pt.wikipedia.org/wiki/Procedimento_operacional_padrão POP] baseado neste exemplo.''
+''O programa Mozilla Reps tem um [https://wiki.mozilla.org/ReMo/SOPs/Proposals POP proposto] (veja mais sobre [https://pt.wikipedia.org/wiki/Procedimento_operacional_padrão POP]) baseado neste exemplo.''
 
 === Código de conduta ===
 
@@ -82,80 +82,81 @@ O que a página de documentação principal deve incluir:
 * Quem somos? O que é a Mozilla?
 * Onde a comunidade está, onde ir para conversar? (IRC, fóruns, lista de emails, github, gerenciador de tarefas, mídias sociais…). Liste todos os recursos que um colaborador deve saber sobre.
 * Community rules and structure link.
-* What are the main areas and projects the community is working on? List of areas and projects.
-* Contributor directory
-** Who’s currently involved in the community?
-** In which areas?
-** Who is the core team and what’s its role?
+* Quais são as principais areas e projetos que a comunidade está desenvolvendo? Lista das areas e projetos.
+* Diretório de colaboradores.
+** Quem está atualmente envolvido na comunidade?
+** Quais as areas?
+** Quem são a equipe principal e quais seus papéis?
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' You don’t need to code your own task manager tool. Some communities are using GitHub issues + some fancy UIs like waffle.io to present what each project is working on.</div>
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Dica:''' Você não precisa desenvolver sua própria ferramenta de gerenciamento de tarefas. Algumas comindades estão utilizando o sistema de problemas (_issue_) do GitHub + alguma ferramenta como o waffle.io para mostrar quais os projetos estão sendo desenvolvidos.</div>
 
 === Mentores ===
 
-It’s interesting to form a mentors group to help newcomers to find their way into the community. A good recommendation is to provide a &quot;Present yourself&quot; forum where new people can post and ask for help or how to get involved with project X.
+É interessante formar um grupo de mentores para ajudar os recém-chegados a encontrarem seus lugares na comunidade. Uma boa recomendação é prover um fórum com um tópico como &quot;Apresente-se&quot; onde as pessoas poderão falar sobre si e pedir ajuda ou como pode se envolver em um projeto específico.
 
-&quot;Crowd-mentoring&quot; is encouraged in medium-large size communities to avoid bottlenecks. Anyone from the community should be able to help newcomers, but the mentors group should be able to devote more time to it.
+&quot;Mentoria de grupos&quot; são encojados em comunidades com um tamanho médio-grande para evitar gargalos. Qualquer um da comunidade pode estar apto para ajudar recém-chegados, mas mentores de grupos devem ter mais tempo para se dedicarem a isso.
 
-=== Projects and pathways ===
+=== Projetos e possibilidades ===
 
-Each project should have its own page describing all the relevant information about it.
+Cada projeto deve ter sua própria páginas descrevendo todas as informações relevantes sobre ele.
 
-* Who is coordinating, how to contact them?
-** A public forum or list to ask questions is encouraged, instead of personal emails that could generate bottlenecks.
-* What this project is about? Is there a skillset needed?
-* How much time (h/week) do I need to help?
-* How can I start contributing now?
-** List of easy tasks.
-** A pathway from easy to medium and large task currently opened.
-* Reference material
-** What learning materials should I check to improve my skills to help this project?
+* Quem está coordenando, e como entrar em contato?
+** Um fórum público ou uma lista de emails para fazer perguntas é interessante, ao invés de e-mails pessoais que podem gerar gargalos.
+* Sobre o que é o projeto? É necessário alguma habilidade especial?
+* Quanto tempo (hora/semana) é necessário para ajudar?
+* Como posso começar a contribuir?
+** Lista de tarefas fáceis
+** Opções de tarefas para realização com informações de dificuldades de fácil para média para difícil/grande.
+* Material de referências.
+** Qual documentos são necessários para melhoras minhas habilidades para ajudar nesse projeto?
 
-Everyone in a project should be tracking newcomers questions, projects coordinators shouldn’t be the only ones onboarding new people.
+Todos em um projeto devem estar atentos as perguntas de recém-chegados, coordenadores de projetos não devem ser os únicos a recepcionar pessoas novas.
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' A video or screencast about how to start contributing to a project is a good way to help newcomers and avoid unneeded questions, also try to show some faces, community is about people and it’s good to see there are other humans working here ;)</div>
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Dica:''' Um vídeo ou um _screencast_ sobre como começar a contribuir em um projeto é uma boa maneira de ajudar recém-chegados e evitar perguntas desnecessárias, tente também mostrar algumas caras, comunidades são sobre pessoas e é bom ver que existem outros &quot;serumaninhos&quots; trabalhando também ;)</div>
 
-=== Retention ===
+=== Permanência ===
 
-Why do people stay in a community? What makes you stay? What are your motivations?
+Por que pessoas continuam na comunidade? O que as faz ficar? Quais sãos as motivações?
 
-Each person has different motivations to contribute to mozilla, try to understand the motivations for the people in your community.
+Cada pessoa tem diferentes motivações para contribuir com a Mozilla, tente entender as motivações das pessoas na sua comunidade.
 
-Some tips:
+Algumas dicas:
 
-* Be always public about the importance of everyone’s voice in all discussions. People should feel part of the group, like a family, they should know their opinions and ideas are valuable.
-* Promote and establish an open and honest feedback and listening culture.
-* Try to include at least 30% of new voices in discussions. Don’t underestimate the value of shoulder-tapping new people and asking them to share their opinion and letting them know how important it is.
-* We are humans! Try to have monthly community meetings via videochat or at least audio. This is a closer way to collaborate - email or text-messages are sometimes tricky to interpret.
-* Write good documentation, check with people who are not involved with mozilla (maybe your friends or family) to check if it’s clear enough to start contributing without help.
+* Apresente sempre de forma pública a importância da participação de todos em uma discussão. As pessoas devem se sentir parte do grupo, como uma família, eles devem saber que suas opiniões e ideias tem valor.
+* Promova e estabeleça um parecer aberto e honesto sobre a participação, e também promova a cultura do ouvinte.
+* Tente incluir pelo menos 30% de novos participantes na discussão. Não subestime o valor de um empurrãozinho para que novas pessoas partipem das discussões, perguntando sobre suas opiniões e mostrando como são importantes fazendo isso.
+* Nós somos humanos! Tentem fazer reuniões mensais da comunidade através de videochat ou pelo menos áudio. Esta é uma forma de aproximar e a colaborar - e-mail ou mensagens de texto às vezes são difíceis de interpretar.
+* Escreva boa documentação, veja com pessoas que não estão envolvidas com a Mozilla (talvez amigos ou familiares), para verificar se está claro o suficiente em como começar a contribuir sem ajuda.
 
-== Contributor development ==
+== Desenvolvimento do colaborador ==
 
-Being part of Mozilla is not about &quot;giving&quot; but also getting value back to people.
+Fazer parte da Mozilla não é sobre &quot;doar&quot;, mas também devolver o valor para as pessoas.
 
-Try to understand:
+Tente entender:
 
-* Why people in your community contribute to mozilla.
-* What they would like to learn.
-* What are their skills, especially skills they have never used at mozilla, including personal skills.
-* What they would like to teach.
-* What are their goals for the next months.
-* How they would like to be recognized.
+* Por que as pessoas na sua comunidade contribuem com a Mozilla.
+* O que eles gostariam de aprender.
+* Quais são suas habilidades, especialmente aquelas que elas nuncam usaram para a Mozilla, incluindo habilidades pessoais.
+* O que eles gostariam de ensinar.
+* Quais são seus objetivos para o próximo mês.
+* Como eles gostariam de ser reconhecidos.
 
-=== Empowerment ===
+=== Empoderamento ===
 
-Mentors should be the group focused on empowering people, being in touch regularly with contributors and getting the previous information from them.
+Mentores devem estar focados no empoderamento das pessoas, estar em contato regularmente com os colaboradores e obtendo informações deles sobre os projetos.
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' Do you have a person who is an expert on metrics? Run an online workshop via air mozilla/vidyo/hangout/other about how to use metrics to be more efficient!</div>
-Encourage people to work on impactful projects but also projects they are more excited about. Running a local sessions of &quot;Planning for Impact&quot; is a good way for people to understand how to balance impact as mozillians and personal empowerment.
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Dica:''' Você tem alguém que tem experiência em planejamento? Realize _workshops online_ via air mozilla/vidyo/hangout/jitsi/outro sobre como realizar planejamentos para ser mais eficiente!</div>
 
-=== Recognition ===
+Encoraje pessoas a trabalharem em projetos impactantes mas também em projetos que elas tenham maior interesse. Realizar sessões locais de &quot;Planejamento de Impacto&quot; é uma boa maneira das pessoas entenderem como balancear o impacto como um mozilliam e empoderamento pessoal.
 
-Have in mind what you’ve learned about how people in your community would like to be recognized.
+=== Reconhecimento ===
 
-Some ideas:
+Tenha em mente o que você aprendeu sobre como as pessoas na sua comunidade gostariam de ser reconhecidas.
 
-* Use your regular meetings to do shout-outs and celebrate people and project accomplishments, even the smaller ones.
-* Promote an appreciation culture where people naturally say thank you, especially powerful in a public space (social media) where others can also see this recognition.
-* Establish a &quot;contributor of the month&quot; article on your blog.
-* Publish interviews to individuals on your blog to publicly promote their work.
-* Create fun badges to give to people. Per-project badges too.
+Algumas ideias:
+
+* Use suas reuniões regulares para fazer anúncios e celebrar as conquistas alcançadas por pessoas e projetos, mesmo os pequenos.
+* Promova um cultura de valorização onde as pessoas naturalmente agradecem, especialmente poderosa em espaços públicos (mídias sociais) onde outros também podem ver este reconhecimento.
+* Estabeleça um quadro de &quot;colaborador do mês&quot; e publique no blog da comunidade.
+* Publique entrevistas com pessoas no blog da comunidade para promover publicamente seus trabalhos.
+* Crie medalhas legais para dar para as pessoas. E também medalhas por projeto.
