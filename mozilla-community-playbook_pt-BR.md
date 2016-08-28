@@ -27,8 +27,6 @@ Coordenadores de projetos devem estar em contato com as equipes da Mozilla para 
 
 ==== Equipe principal ====
 
-From all the people in the community, create a core team to work specifically on community building and decision making. This should be an open call to anyone who can commit to:
-
 De todas as pessoas na comunidade, deve-se criar uma equipe principal para trabalhar especificamente na construção da comunidade e tomadas de decisão. Isto deve ser uma chamada aberta para qualquer pessoa que possa se comprometer à:
 
 * Trabalhar ativamente na formação da comunidade e discussões.
@@ -37,48 +35,52 @@ De todas as pessoas na comunidade, deve-se criar uma equipe principal para traba
 
 Esta equipe será o grupo que tomará as decisões finais nos assuntos da comunidade e deve ser aberta para qualquer um que trabalhou ativamente por pelo menos três meses na comunidade.
 
-====Decision making====
+==== Tomada de decisões ====
 
-Discussions and decisions should be transparent to all community, even if just the core team or the functional coordinator have the final word, every community contributor should have a voice during discussions. Have a single/public channel to talk about the community, if your community is medium/large split functional/project discussions to separate channels.
+Discussões e decisões devem ser transparentes para toda comunidade, mesmo se somente a equipe principal ou o coordenador da equipe operacional tenha a palavra final, todo colaborador da comunidade deve ser ouvido durante as discussões. Ter um canal único/público para falar sobre a comunidade, se a sua comunidade é média/grande separe as discussões funcionais/projetos em canais distintos.
 
-For core team, a simple majority voting should be enough to approve decisions that don’t have a clear consensus during discussions. A supermajority (2/3) should be required to big changes like changing the community rules. Core team should be able to vote during their 72h response time.
+Para a equipe principal, um voto de maioria simples deve ser suficiente para aprovar decisões que não tem um consenso durante as discussões. Uma maioria (2/3) deve ser necessário para grandes mudanças como mundança das regras da comunidade. A equipe princial deve estar disponível para votação durante suas 72h de tempo de resposta.
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' Be open to new initiatives from new people, core team or functional lead should never block someone from trying new things if there is a group committed. This includes working on new functional areas your community was never involved in.</div>
-'''Leadership rotation'''
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Dica:''' Estejam abertos para novas iniciativas de novas pessoas, a equipe principal ou o responsável pela equipe funcional nunca deve impedir alguém de tentar novas coisas se houver um grupo disponível por isso. Isto inclui trabalhar em novas areas funcionais que sua comunidade nunca tenha se envolvido.</div>
 
-Being a functional coordinator or a core team members shouldn’t be a life time position. These roles should be renewed each 6 months.
+'''Rotação de chefia'''
 
-* Functional: Current coordinators should present a six month report about the work during the preceding months. Also anyone should be free to present themselves to run a functional team, if more than two people run for coordination, they all should present their plan for the next six-months and the core team should vote to have at least two coordinators.
-* Core team: All members should actively show their intention to continue in this position and present their personal plan and goals for the next six months.
+Torna-se um coordenador ou um membro da equipe principal não deve ser uma posição vitalícia. Estes papéis devem ser renovados a cada 6 meses.
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">Taking a break is fine! People should avoid burnouts and delegate work when possible. Taking a break from leadership positions should be something normal, you can always return when you have time. Vacations are there for a reason, disconnect from the community for a few weeks!</div>
-=== Community rules ===
+* Funcional: Os atuais coordenadores devem apresentar um relatório do trabalho realizado durantes os seis meses. E também, quaisquer pessoa deve ser livre para se apresentar como coordenador para conduzir uma equipe funcional, se mais de duas pessoas se candidatarem a coordenação, todos devem aresentar seu plano para os próximo seis meses e a equipe principal deve votar para escolher pelo menos dois coordenadores.
+* Equipe principal: Todos os membros devem apresentar ativamente sua intenção de continuar na sua condição de participante da equipe principal, e apresentar seu plano pessoal e objetivos para os próximos seis meses.
 
-The way the community is structured and decisions are made should be clearly documented on the community portal, this should be a reference for everyone from old to new members.
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">Tá tudo bem tirar umas férias! As pessoas devem evitar o esgotamento sobre atividades e delegar trabalho quando possível. 'Dar um tempo' de funções de coordenações deve ser algo normal, você pode ser retornar quando tiver tempo, de novo. Férias estão aí para um motivo, se desligue da comunidade por algumas semanas!</div>
 
-Anyone in the community should feel free to propose changes to the community, the process could look like this:
+=== Regras da comunidade ===
 
-* A proposal is opened on the community forum for discussion by a contributor (champion) answering what and why. Minimum six days period discussion.
-* Once there is a clear proposal the &quot;champion&quot; will seek at least five other contributors to support this proposal (core team members will be exempt from this requirement )
-* Proposal is formally sent to core team, who will discuss, modify (if needed) and vote.
+A forma como a comunidade é estruturada e as decisões são tomadas devem ser claramente documentadas e informadas no portal da comunidade, isto deve ser a referência para todos, desde velhos até novos membros.
+
+Qualquer pessoa na comunidade deve se sentir livre para propor mudanças, o processo pode parecer como descrito abaixo:
+
+* Uma proposta é aberta no fórum da comunidade para discussão por um colaborador (defensor) respondendo o que e por quê. Com no mínimo seis dias de discussão.
+* Uma vez que haja uma proposta clara o &quot;defensor&quot; procurará pelo menos outros cinco colaboradores para dar suporte a sua proposta (membros da equipe principal serão isentos deste requisito)
+* A proposta é formalmente enviada para a equipe principal, que discutirá, modificará (se necessário) e votará.
 
 ''The Mozilla Reps program has a [https://wiki.mozilla.org/ReMo/SOPs/Proposals proposals SOP] based on the previous example.''
+''O programa Mozilla Reps tem um [https://wiki.mozilla.org/ReMo/SOPs/Proposals POP proposto] (veja mais sobre [https://pt.wikipedia.org/wiki/Procedimento_operacional_padrão POP] baseado neste exemplo.''
 
-=== Code of conduct ===
+=== Código de conduta ===
 
-All Mozilla communities should follow the global [https://www.mozilla.org/about/governance/policies/participation/ Mozilla Community Participation Guidelines] - it should be localized to your language and linked from your community rules.
+Todas as comunidades Mozilla devem seguir o [https://www.mozilla.org/about/governance/policies/participation/ Guia de Participação de Comunidade Mozilla] global - deve estar localizado para o seu idioma e referenciado nas regras da sua comunidade.
 
-<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' Create a group of people to provide conflict resolution support and document how to get in touch with them as a group or as individuals.</div>
-== Onboarding and engagement ==
+<div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Dica:''' Crie um grupo de pessoas para prover suporte a resoluções de conflitos e descreva como entrar em contato com estas pessoas ou com o grupo.</div>
 
-Having a great experience as a newcomer is the key for success and growth. Having a clear documentation linked from your homepage should be the first step.
+== Integração e engajamento ==
 
-=== Documenting ===
+Ter uma grande experiência como recém-chegado é a chave para o sucesso e crescimento. Ter um documentação clara e ligada a sua página principal deve ser o primeiro passo.
 
-What the main documentation page should include:
+=== Documentação ===
 
-* Who we are? What’s Mozilla?
-* Where is the community, where to go to talk? (IRC, forums, mailing list, github, task manager, social media…). List all the resources a contributor should know about.
+O que a página de documentação principal deve incluir:
+
+* Quem somos? O que é a Mozilla?
+* Onde a comunidade está, onde ir para conversar? (IRC, fóruns, lista de emails, github, gerenciador de tarefas, mídias sociais…). Liste todos os recursos que um colaborador deve saber sobre.
 * Community rules and structure link.
 * What are the main areas and projects the community is working on? List of areas and projects.
 * Contributor directory
@@ -87,7 +89,8 @@ What the main documentation page should include:
 ** Who is the core team and what’s its role?
 
 <div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' You don’t need to code your own task manager tool. Some communities are using GitHub issues + some fancy UIs like waffle.io to present what each project is working on.</div>
-=== Mentors ===
+
+=== Mentores ===
 
 It’s interesting to form a mentors group to help newcomers to find their way into the community. A good recommendation is to provide a &quot;Present yourself&quot; forum where new people can post and ask for help or how to get involved with project X.
 
@@ -110,6 +113,7 @@ Each project should have its own page describing all the relevant information ab
 Everyone in a project should be tracking newcomers questions, projects coordinators shouldn’t be the only ones onboarding new people.
 
 <div style="border: 1px solid #ffd966; padding: 5pt 5pt 5pt 5pt; vertical-align: top; background-color: #fff2cc; color: #434343; max-width: 800px">'''Tip:''' A video or screencast about how to start contributing to a project is a good way to help newcomers and avoid unneeded questions, also try to show some faces, community is about people and it’s good to see there are other humans working here ;)</div>
+
 === Retention ===
 
 Why do people stay in a community? What makes you stay? What are your motivations?
